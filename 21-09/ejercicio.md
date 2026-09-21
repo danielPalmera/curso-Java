@@ -10,7 +10,7 @@ La página deberá tener la siguiente estructura:
    * 1. - Estará situado debajo del HEADER. 
    * 2. - Ocupará el 100% del ancho. 
    * 3. - Tendrá una altura de 70px. 
-   * 4. - Contendrá cuatro enlaces: 
+   * 4. - Contendrá cuatro  enlaces: 
       * 1. Inicio, 
       * 2. Productos, 
       * 3. Nosotros y 
